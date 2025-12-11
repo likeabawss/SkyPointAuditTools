@@ -73,7 +73,6 @@ The tool generates a self-contained HTML report located in:
 │   └── <HaloId>/
 │       └── <TicketId>/
 │           ├── Audit// filepath: c:\Users\michael.barrett\src\github\SkyPointAuditTools\README.md
-
 ```
 
 # SkyPoint Audit Tools
