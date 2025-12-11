@@ -1,0 +1,8 @@
+# Case Data and Logs
+SessionData/
+Samples/
+*.log
+*.zip
+
+# Editor directories
+.vscode/
