@@ -73,6 +73,9 @@ The tool generates a self-contained HTML report located in:
 │   └── <HaloId>/
 │       └── <TicketId>/
 │           ├── Audit// filepath: c:\Users\michael.barrett\src\github\SkyPointAuditTools\README.md
+
+```
+
 # SkyPoint Audit Tools
 
 This repository contains PowerShell tooling designed to retrieve, organize, and visualize Unified Audit Logs from Microsoft 365 (Exchange Online) for forensic investigations.
